@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<dataSchema xmlns="http://enquery.net/encryptedquery/dataschema"(*)
+<dataSchema xmlns="http://enquery.net/encryptedquery/dataschema"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <name>Address</name>
     <field>
